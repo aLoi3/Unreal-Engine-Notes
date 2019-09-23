@@ -1,0 +1,21 @@
+23/09/2019
+Today I have met my team again after summer break. After summer I feel much more confident in my skills to talk with others and develop new and old ideas. 
+We've been talking about what game ideas we want to prototype and what can go wrong and what can go right. Had PO meeting as well where we talked about 
+whether some ideas could be realised and sold in the future and Michael suggested a few ideas - the University can fund some development as we are going 
+to sell the game.
+
+From programmers' perspective I'm not very familiar with Unreal's c++ coding (we are going for Unreal Engine for this year), so I decided to start off with looking 
+up some tutorials for certain things that could be helpful in the future - some of them being some of the features we want in a game. Today I wasn't feeling like 
+starting actually prototyping/coding, that's why I decided to first find tutorials, read them and, eventually, start coding them (depending whether we decide that 
+that could be useful to make in the first place). I've found networking for Unreal - making multiplayer viable - which is one of the key features for one of our ideas. 
+Also, I found how to (potentailly) make multithreading for Unreal Engine 4, which could later fix some lag issues, I hope.
+
+Zac has also showed me how to clone a repo without it being laggy and crushing (using depth 1 - in which case it will only download the necessary files) as well as 
+showing useful stuff such as "unittest", which is used in many proffesional cases where the code is being tested while refactoring, which makes it easier to 
+debug/refactor. We've talked about some of the issues that could occur when we prototype/start making a game, but hopefully that won't be much of a problem 
+and we could handle it.
+
+During this first day of Uni, I've been feeling pretty confident, ready to start working, but also a bit scared of the workflow we are going to have and whether 
+I could be able to handle everything on time. There's surely going to be problems, unfinished work, too much confidence in my skills and work will take longer 
+that I would expect it to take. Also, don't forget my lazyness... But I'm feeling much better than I did previous two years, I had refreshing summer break and 
+I found someone that has changed me a bit, that will be changing me for the best and who will, hopefully, cheer me up during tough times.
