@@ -1,0 +1,7 @@
+Notes:
+Environment Query System (EQR) -> easy to integrate with behaviour trees, can be used for AI
+Look into Multithreading -> might help with some lag fixing
+
+Links:
+http://orfeasel.com/blog/ -> C++ tutorials for Unreal Engine 4
+https://www.youtube.com/playlist?list=PLZlv_N0_O1gYwhBTjNLSFPRiBpwe5sTwc - Networking tutorial (for horror game)
