@@ -10,7 +10,7 @@ starting actually prototyping/coding, that's why I decided to first find tutoria
 that could be useful to make in the first place). I've found networking for Unreal - making multiplayer viable - which is one of the key features for one of our ideas. 
 Also, I found how to (potentailly) make multithreading for Unreal Engine 4, which could later fix some lag issues, I hope.
 
-Zac has also showed me how to clone a repo without it being laggy and crushing (using depth 1 - in which case it will only download the necessary files) as well as 
+Zac has showed me how to clone a repo without it being laggy and crushing (using depth 1 - in which case it will only download the necessary files) as well as 
 showing useful stuff such as "unittest", which is used in many proffesional cases where the code is being tested while refactoring, which makes it easier to 
 debug/refactor. We've talked about some of the issues that could occur when we prototype/start making a game, but hopefully that won't be much of a problem 
 and we could handle it.
@@ -19,3 +19,18 @@ During this first day of Uni, I've been feeling pretty confident, ready to start
 I could be able to handle everything on time. There's surely going to be problems, unfinished work, too much confidence in my skills and work will take longer 
 that I would expect it to take. Also, don't forget my lazyness... But I'm feeling much better than I did previous two years, I had refreshing summer break and 
 I found someone that has changed me a bit, that will be changing me for the best and who will, hopefully, cheer me up during tough times.
+
+
+24/09/2019
+Today we had an introduction lecture about our game projects - what's been changed for this year, what's good to concentrate on, supervisor meetings and place allocations. 
+Been pretty useful to consider some of these things early on and now I'm feeling a bit more confident in my ability to work on the game and be productive and supportive. 
+We've also been shown all the rubric for this semester's modules to give us an early look and understand what's important during this year. There was another lecture 
+about portfolios and what importance they have as well as about freelancing - what are the pros and cons about it. Luckily, or unfortunately, portfolio for programmers 
+is not always necessary, even though it's still very useful to have, especially if one wants to work as a freelancer.
+
+Today I have made a simple patrol AI in Unreal Engine 4, which may or may not be used later in our game, but I had to do something because I feel like, as a programmer, 
+I don't know what would be best to make early in development. That's why I asked my team about what I could do now to have it as early as possible and maybe change it 
+later in development. Hopefully, they will give me some ideas. 
+
+Unfortunately, Unreal Engine didn't load today as well - getting compiling errors if I try to make a new project starting as C++ rather that as Blueprint project. 
+Apparently, the Visual Studio version is not supported by .1 version. Hopefully, this will be fixed asap.
