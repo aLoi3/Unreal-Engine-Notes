@@ -34,3 +34,24 @@ later in development. Hopefully, they will give me some ideas.
 
 Unfortunately, Unreal Engine didn't load today as well - getting compiling errors if I try to make a new project starting as C++ rather that as Blueprint project. 
 Apparently, the Visual Studio version is not supported by .1 version. Hopefully, this will be fixed asap.
+
+
+25/09/2019
+Today I had my first supervisor meeting with Ed. We talked about how complicated my dissertation project can be and how to make it simpler, what additional papers 
+I could read and what to focus on. He suggested some interesting stuff, for example looking more into how simple RL algorithms can be more efficient than complex 
+ones. He also suggested what artefact project I could focus on - using open-source algorithms to compare in games they hav enot yet been used in to see which ones 
+are more efficient than others. 
+
+After supervisor meeting we had programmers guild where we were job-hunting - looking into game companies and getting an idea of what they might require from applicants 
+as well as what we should expect from them in the future. The guild has become a lot more interesting and useful compared to previous years. Now we have some dedicated 
+session where we do certain things we were given. But we could also do our personal stuff during those sessions, which could be very useful when we get deadlines or 
+something to show to the tutor for feedback...
+
+Others had portfolio day, so only few of us were in the studio after our guild (I was not there). So this day was a procrastination day, I'd say...
+
+
+26/09/2019
+Today we had no lectures, so all my time I spent working on a game. This time I've been working on RTS-like camera movement - moving the camera with WASD and arrows, tilting 
+the camera and rotating it. While doing the tutorial for that I encountered some errors, which I spent about an hour or two trying to find a fix. This got me a bit frustrated, 
+because I didn't what to look for about this error, but eventually I got it and as always it was a stupid and simple error to fix... Luckily, Zac also suggested putting my 
+stuff into a branch from our repository, which I should've done earlier, but better late than never and there was not a lot done yet, so it's fine.
