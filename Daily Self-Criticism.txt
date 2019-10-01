@@ -61,3 +61,29 @@ stuff into a branch from our repository, which I should've done earlier, but bet
 No lectures today at all, full focus on the game. Have been continuing working on the camera - added screen edge movement and considered how I should do the resource system 
 and AI system for workers and how to assign people to their jobs and etc. Found a couple tutorials that cover this, so will have to go through that. Feeling a bit lost 
 in what to focus on, right now I feel like I'm doing this and that and not concentrating on one important thing to make. Hopefully, this will change next week.
+
+
+30/09/2019
+Today we had one lecture (for BAs) where Gareth was talking about our potential future jobs, whether that's game industry related or not, asset creation or not, etc. 
+It's been useful for those who still are not sure on their future career. However, I'm pretty confident in the fact that I want to work in the industry creating games. 
+It was still useful regarding getting a better knowledge of what to expect and where to look for jobs and/or other people's experiences (LinkedIn).
+
+Regarding game project, today I have made a resource spawner - placing an actor to the scene that has box collider will spawn given assets (resources). It can 
+spawn on begin play and/or every given time. I also added a basic HUD to display current resources. The resources spawned also have a random rotation to it to make it 
+not look exactly the same every single time they spawn - adding some variantion, even though it's the same asset.
+
+
+1/10/2019
+Morning lecture about pre-production by Brian - was pretty fun and useful to hear that prototypes should not take long and should look like shit. That is fine, it's 
+a part of proccess and evetuanlly success. We don't have to be afraid to throw away some ideas, assets, codes, etc. This is why we prototype - to see whether it works, 
+whether it's fun and could potentially be improved and so on. He suggested some models to prototype, some of the are new, some of them are not and some of them we 
+have actually made during last and this week. Also suggested books too boost one's creativity skills, I suppose, both understanding is psychologically and practically. 
+
+During the studio time I decided to fix one problem with blueprints (spawning assets-resources) and it was a quick fix, which only took like 5-10 minutes, which I'm 
+happy about, because I can continue working on it and not try to find a problem... Also went through some improvements for camera - adding lag to it to smoothen it up, 
+so it looks nicer when moving the camera. 
+
+Tomorrow I have another supervisor meeting with Ed about the dissertation and I should have a proposal by then, which makes me think that I should start writing it 
+in the studio (I haven't started on it yet...) and hopefully finish. It shouldn't take long as it's only 250-word proposal, however, it might be difficult due to 
+not being sure of what topic and what question I wanna go for. It's informal, so should be fine anyway, but I would like to get a more decent idea of what I might 
+be most interested in writing and creating an artefact of.
