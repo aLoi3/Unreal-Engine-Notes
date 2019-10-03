@@ -87,3 +87,23 @@ Tomorrow I have another supervisor meeting with Ed about the dissertation and I 
 in the studio (I haven't started on it yet...) and hopefully finish. It shouldn't take long as it's only 250-word proposal, however, it might be difficult due to 
 not being sure of what topic and what question I wanna go for. It's informal, so should be fine anyway, but I would like to get a more decent idea of what I might 
 be most interested in writing and creating an artefact of.
+
+
+2/10/2019
+Supervisor meeting and programmers' guild - during the morning meeting we had a good talk about my research topic. I was still unsure what I really want to do and what I 
+would enjoy doing, but now I have more ideas that I will have to research. Some of them sound very interesting for me, however for these topics I haven't thought of the 
+potential artefact. Nevertheless, I feel like some of these ideas I could actually enjoy researching and writing about. The ideas were, by the way, about human-like 
+behaviour in games and how it's more fun and appealing to players than "OP" AI. Also, as the games are considered some sort of escape from real life, could human-like AI 
+in games ruin this experience?
+
+During programmers' guild we've review our chosen job ads, did some tests for personalities that were suggested in this week's lecture, talked about a bunch of stuff like 
+managing your time to do work and how to confince yourself to start doing actual work. Next week's guild should be about that.
+
+
+3/10/2019
+Today I had not lectures, so all my time I spent in the studio working on a game and writing a proposal. Nothing too interesting. For the game I started working on 
+actually constructing buildings - today I added building preview (displaying the building on mouse cursor before placing it). There's still no ability to actually 
+place it, so will be working on that next time. 
+
+Started writing my proposal as well. It's not formal and is not assessed, only to get some feedback on the research question and find a better sounding question for 
+the paper.
