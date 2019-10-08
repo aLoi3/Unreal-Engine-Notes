@@ -107,3 +107,16 @@ place it, so will be working on that next time.
 
 Started writing my proposal as well. It's not formal and is not assessed, only to get some feedback on the research question and find a better sounding question for 
 the paper.
+
+
+4/10/2019
+Today we had a lecture where we were discussing our paper topics - reading others' proposals, trying to say what it's about and how interesting/useful it is.
+After that we had a team supervisor meeting. We showed Michael our prototypes so far, but half of the time we were just trying to find them and were just chilling there.
+After I didn't stay in the studio and went home to relax.
+
+
+7/10/2019
+The lecture today was pretty boring even though it had some useful points to consider, but I couldn't take everything. So, can't tell much about the lecture we had.
+In the studio, however, I started working on actually constructing buildings - successfully, but it had some issues with that that I have to fix later. This I will do 
+tomorrow as well as actually building it rather than having a ghost building showing in the level. It will not be as easy, because I want to consider workers to build it 
+instead of having it built after some certain time. But for prototype, second option could be of use.
