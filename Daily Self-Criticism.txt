@@ -120,3 +120,38 @@ The lecture today was pretty boring even though it had some useful points to con
 In the studio, however, I started working on actually constructing buildings - successfully, but it had some issues with that that I have to fix later. This I will do 
 tomorrow as well as actually building it rather than having a ghost building showing in the level. It will not be as easy, because I want to consider workers to build it 
 instead of having it built after some certain time. But for prototype, second option could be of use.
+
+
+8/10/2019
+Skipped a lecture today for team training (volleyball). However, after the training I worked on the 1st prototype - cleaned up Zak's blueprints to make the look prettier, 
+implemented game time to later use it to actually construct buildings whilst assigning workers. The last one I already started doing, but I will need some more time to 
+make it work. Hopefully, by the end of this week I'll be able to make it.
+
+
+9/10/2019
+Had a supervisor meeting today. As I haven't done anything for my dissertation since last Friday I had nothing to talk about during that hour, but Ed asked me a few questions 
+that led to a conversation about what I should look into more and what I should avoid as it's not a BSc-level question but more Phd-level. One of the topics that caught my 
+interest was procedural generated animations and AI learning crossover. This is far too hard to write about, let alone making an artefact. Sam sent me a couple of interesting 
+videos for this topic, but I will watch them just of my interest. I will probably not go far into this, as this is not of my current level.
+
+During programmers' guild we had an interesting session for time management. Started with a fun game where we had to collect points for 10 minuters from different tasks. 
+Nevertheless, after this game we had a normal session with other tasks such as writing our daily routine we have and what we have done yesterday. Describing everything 
+from morning till next day. It had some good and useful sources for reminding yourself what you had planned and how to make yourself start working. I will have to look 
+into those sources more in-depth and maybe some of it might help me organise myself.
+
+
+10/10/2019
+Don't remember what happened
+
+
+11/10/2019
+Very boring lecture with Michael, my brain didn't want to work and understand enything at all... After we had a team meeting - showed paper prototype and digital one as well as 
+escape room text adventure prototype. We decided on the first one and now fully working on "Hotpunk"
+
+I got very ill this weekends as well so I stayed home until Thursday
+
+
+17/10/2019
+Still ill but have to come to the studio to do some work, cause who else gonna do it, huh?
+Worked on game time today - implemented sun rotation, pause game time and icreanse/decrease game time. We also had a meeting about art style and all the artsy stuff, which 
+I was a part of but did not say much, cause it's not really my route.
