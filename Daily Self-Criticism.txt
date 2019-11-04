@@ -162,3 +162,9 @@ Haven't been recording my criticism and cannot remember what has happened then. 
 I've not been in the studio for 3 days and wasn't working on the game. I was feeling a bit downed and tired and felt like I could not work while in the studio. 
 However, staying with myself helped me recover. Maybe it happened because I was with other people most of the time, which exhausted me both physically and mentally. 
 Luckily, I'm feeling better now after several days of rest and am ready to work against and get this MVP done by the end of this week!
+
+Today we had a meeting regarding marketing of the game and whether we should port it into consoles. I have some concerns about the gameplay and controls, but I should probably 
+leave it to designers. After all, overscoping is common and if we won't manage to make the game polished as we want to, we should probably not port the game, to be honest. 
+Nonetheless, we are still working on it and today I have been trying to add a behaviour for people so that they go to work when assigned to. This is yet unsuccessful, 
+but I will work on that later. Hopefully, it's not gonna take too long for me to figure out what's wrong. I feel like I'm very close to making this work, but can't understand 
+what I'm missing. The team has also assigned new tasks for everyone, because it's the last week until we present our MVP to our supervisor. So it's gonna be a fun week...
